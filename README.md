@@ -35,9 +35,4 @@ Analyse customer usage and identify factors contributing to churn. Suggest reten
 - Created retention model with 84% accuracy
 - Suggested 2 policy changes based on usage trends
 
-## 📸 Visual Preview
-![Power BI Dashboard](images/dashboard_preview.png)
 
-## 🔗 Live Report / Notebook
-- [Jupyter Notebook](notebooks/churn_analysis.ipynb)
-- [Power BI File](.pbix)
