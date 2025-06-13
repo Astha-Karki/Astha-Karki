@@ -1,4 +1,4 @@
-👋 **Hi, I’m Astha Karki **
+#👋  Hi, I’m Astha Karki 
 
 I’m a passionate Data Analyst / Data Engineer based in Sydney, with experience in:
 - SQL, Power BI, Excel, Python
